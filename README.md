@@ -7,3 +7,5 @@ TBD:
 - add login and other analytics features
 - extract marks alloted to each answer from the marking scheme
 - scale to a vector DB to manage multiple students
+
+Video: https://drive.google.com/file/d/1wPsAZ84-uvHHBsNgL8xj03tfuNw6QIN1/view?usp=sharing
