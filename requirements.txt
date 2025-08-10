@@ -1,0 +1,15 @@
+pdfplumber
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+tqdm
+regex
+spacy
+streamlit
+opencv-python
+pillow
+pdf2image
+pymupdf
+torch
+transformers
