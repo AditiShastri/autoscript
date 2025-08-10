@@ -1,7 +1,7 @@
 - Run app.py
 - Starter files have been provided
 
-TBD:
+To do:
 - add trained TrOCR for handwriting (@bhoomika)
 - test for handwritten
 - add login and other analytics features
